@@ -5,7 +5,6 @@
 body {
   font-size: 16px;
   background-color: antiquewhite;
-
 }
 
 h1 {
@@ -31,7 +30,6 @@ main {
 }
 
 form {
-
   display: flex;
   gap: 10px;
   justify-content: center;
@@ -48,7 +46,6 @@ input {
   outline: none;
   border-radius: 3px;
   padding: 10px;
-
 }
 
 
@@ -60,7 +57,6 @@ ul {
 .todo-list-item {
   display: grid;
   grid-template-columns: 30px 1fr 40px;
-
   align-items: center;
   gap: 10px;
   margin-bottom: 5px;
@@ -71,7 +67,6 @@ ul {
   cursor: pointer;
   color: darkslategrey;
   font-size: 18px;
-
 }
 
 .todo-text.completed {
@@ -85,7 +80,6 @@ ul {
   border: none;
   padding: 5px 10px;
   cursor: pointer;
-
 }
 
 
@@ -93,7 +87,6 @@ ul {
   border: 1px;
   color: chocolate;
   cursor: pointer;
-
 }
 
 
@@ -101,7 +94,6 @@ ul {
   border: 1px;
   color: cadetblue;
   cursor: pointer;
-
 }
 
 .todo-checkbox {
